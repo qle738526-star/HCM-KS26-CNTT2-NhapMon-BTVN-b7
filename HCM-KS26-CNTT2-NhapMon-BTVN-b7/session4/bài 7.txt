@@ -1,0 +1,6 @@
+Bài 7: Phân tích và khắc phục lỗi điều hướng thư mục trên Terminal tại OrderTech 
+Phần 1: Phân tích vấn đề
+* Nguyên nhân gây ra lỗi trên là: khi gõ cd tên folder phải bỏ trong dấu “ “
+          Phần 2: Hoàn thiện bài
+* cd “Menu Thang 9”
+* cd ./Menu\Thang\9
